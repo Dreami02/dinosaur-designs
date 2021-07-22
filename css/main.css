@@ -1,0 +1,10 @@
+html {
+  boz-sizing: border-box;
+  background-color: #f2f1;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
+
+*, *::bẻoe, *::after {
+  box-sizing: inherit;
+}
